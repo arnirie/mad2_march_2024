@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342843235333",
+    "project_id": "mad2-demo",
+    "storage_bucket": "mad2-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342843235333:android:29dd82b3acc0ff6f8b106c",
+        "android_client_info": {
+          "package_name": "com.example.mad2_firebase_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3IbMDygNPqd27KNy-3XJmYCOLD4unPKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
